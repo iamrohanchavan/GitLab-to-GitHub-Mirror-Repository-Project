@@ -1,5 +1,5 @@
 # GitLab and GitHub mirror repository
-## :round_pushpin: Summary
+## :round_pushpin: Introduction
 Repository mirroring is a feature that allows automatic synchronization of code between two Git platforms such as GitLab and GitHub.
 
 It ensures that when changes are made in one repository, the same changes are automatically updated in the other repository without manual effort.
